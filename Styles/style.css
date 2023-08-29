@@ -112,7 +112,7 @@ body {
     color:var(--cor-secundaria);
     background-color: var(--cor-terciaria);
     text-align: center;
-    padding: 20px;
+    padding: 12px;
     font-size: 1.25rem;
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
